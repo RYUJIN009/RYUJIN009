@@ -145,7 +145,15 @@ height: 100vh;
 }
 
 
-
+.menu
+{
+display: block;
+width: 25px;
+margin: 40px auto 0; 
+    cursor: pointer;
+    
+}
+    
 
 
 
