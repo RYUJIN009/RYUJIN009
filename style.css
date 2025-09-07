@@ -138,7 +138,7 @@ display: flex;
         transform: translateY(-80vh);
         opacity: 0;
     }
-
+}
 
 
 .bubbles img:nth-child(1)
@@ -163,7 +163,7 @@ width:26px;}
 .bubbles img:nth-child(7)
 { animation-delay: 7s;width:35px; } 
 
-}
+
 
 
 
