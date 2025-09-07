@@ -146,19 +146,19 @@ display: flex;
 width:26px;} 
 
 .bubbles img:nth-child(2)
-{ animation-delay: 1s; } 
+{ animation-delay: 1s;width:40px; } 
 
 .bubbles img:nth-child(3)
-{ animation-delay: 3s; width:26px; } 
+{ animation-delay: 3s; width: 36px; } 
 
 .bubbles img:nth-child(4)
-{ animation-delay: 4.5s;width:20px; } 
+{ animation-delay: 4.5s;width:50px; } 
 
 .bubbles img:nth-child(5)
-{ animation-delay: 3s; } 
+{ animation-delay: 3s; width:30px;} 
 
 .bubbles img:nth-child(6)
-{ animation-delay: 6s; width:20px;} 
+{ animation-delay: 6s; width:40px;} 
 
 .bubbles img:nth-child(7)
 { animation-delay: 7s;width:35px; } 
