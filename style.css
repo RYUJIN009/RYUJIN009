@@ -112,9 +112,21 @@ width:50px;
 }
 
 
+.bubbles img
+{
+    width: 50 px;
+    animation: bubble 7s linear infinite;
+}
 
-
-
+.bubbles
+{
+width: 100%;
+display: flex;
+    align-items:center;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 0;
+}
 
 
 
